@@ -1,0 +1,3 @@
+# Befehl um den Wireguard-Dienst zu starten:
+
+sudo /var/packages/WireGuard/scripts/start
